@@ -1,0 +1,16 @@
+# quiz-individu-2
+1. 3.10.0 adalah versi terbaru dari python yang rilis pada tanggal 4 Oktober 2021. versi baru 3.10.0, versi lama 2.0.1.
+
+2. a. explorer berfungsi untuk mengelola file atau folder codingan sehingga jika ingin mengganti file atau folder kita bisa memanfaatkan fitur ini. 
+b. debuger berfungsi untuk membantu melakukan debug pada kode dengan cara mengawasi kode, varoabel, call stack dan expression. 
+c. extensions berfungsi membantu untuk memasang beberapa komponen pendukung saat menulis kode. 
+d. snippet berfungsi ketika saat kita ingin membuat looping maka kita tidak harus menulis sintaksnya secara keseluruhan tetapi hanya yang dijadikan parameter saja.
+
+3. Dalam pemrograman, extension adalah file yang berisi program yang berfungsi untuk memperluas kemampuan atau data yang 
+tersedia ke program yang lebih mendasar. Fungsi lainnya juga untuk mempermudah pengguna dalam mengoperasikan sistem komputer 
+untuk mendefinisikan informasi yang ada pada aplikasi atau program yang terkait dengan file tersebut. Extension terkadang harus 
+disimpan dalam file ekstensi terpisah agar mudah ditemukan. contohnya seperti praktikum kemarin membuat Hello world, dengan 
+kondisi leptop yang belum menginstal extension python otomatis tidak bisa langsung di run jadi untuk run di cmd, tetapi apabila 
+leptop tersebut sudah menginstal extension python jadi run hanya mengklik tanda di pojok atas kanan dan muncul lah terminal dan 
+hasil dari ketikan print("hello world") menjadi hello world.
+
